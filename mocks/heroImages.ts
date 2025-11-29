@@ -1,0 +1,5 @@
+export const heroImages = [
+  "https://space.coze.cn/api/coze_space/gen_image?image_size=landscape_16_9&prompt=Commercial%20truck%20export%2C%20warehouse%20with%20multiple%20trucks%2C%20port%20background%2C%20professional%20photography%2C%20high%20quality&sign=bfd9923ac55fe42a26e0a41739559252",
+  "https://space.coze.cn/api/coze_space/gen_image?image_size=landscape_16_9&prompt=Modern%20commercial%20trucks%20line%20up%2C%20shipping%20container%20terminal%20background%2C%20professional%20lighting%2C%204k%20resolution&sign=9f0034f37afddffd9a9c01e6d1450235",
+  "https://space.coze.cn/api/coze_space/gen_image?image_size=landscape_16_9&prompt=Heavy%20duty%20trucks%20export%20business%2C%20factory%20yard%20with%20various%20truck%20models%2C%20international%20shipping%20vessels%20in%20background&sign=b6b6893d2cc95e5143af34957e62a191"
+];
